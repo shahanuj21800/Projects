@@ -1,4 +1,4 @@
-# Welcome to my projects!!!
+# Welcome to my projects!
 
 Hello,
 My name is Anuj Shah. Currently I am pursuing a Master of Science in Engineering in the filed of Robotics Engineering at the University of Michigan-Dearborn.
